@@ -1,0 +1,175 @@
+
+#top
+{
+	font-size: 1.5rem;
+	color:  #C7D3D4FF;
+	padding-left: 120px;
+}
+/*#one
+{
+	font-size: 1.4em;
+	margin-top: 10px;
+	line-height: 1.5;
+	color: #603F83FF;
+	font-style: italic;
+}*/	
+
+/* navigation bar */
+
+header
+{
+	margin-top: 10px;
+	padding:  0 0 2rem;
+	background-color: #625772;
+	color: ;
+}
+
+.navbar-brand
+{
+	font-weight: bold;
+	font-size: 2.5rem;
+}
+.nav-item
+{
+	padding: 0 18px;
+	color: #fff;
+}
+#nav-link
+{
+	font-size: 1.2rem;
+	font-family: "Montserrat-Light";
+	color:  #C7D3D4FF;
+}
+
+/* price */
+#hone
+{
+	padding-top: 50px;
+	text-align: center;
+	text-transform: uppercase;
+	color: #A3586D;
+}
+#pone1
+{
+	text-align: center;
+	padding: 40px;
+	font-style: italic;
+	margin-left: 20px;
+	margin-right: 20px;
+	color: #A79C93;
+	font-size: 1.1rem;
+}
+#hthree
+{
+	text-align: center;
+	font-style: italic;
+	color: #A79C93;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#color
+{
+	text-align: center;
+	text-transform: uppercase;
+	padding-bottom: 30px;
+	color: #A3586D;
+}
+#i1
+{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 500px;
+  margin-bottom: 30px;
+  margin-top: 60px;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+#price
+{
+	background-color: #F4ECF7;
+}
+
+/*shop*/
+#hthree1
+{
+	font-weight: bold;
+	padding-bottom: 40px;
+}
+#shop
+{
+	padding: 60px;
+	line-height: 2;
+	color: #A3586D; 
+}
+
+button
+{
+	background-color: #F4ECF7;
+	padding: 10px;
+	width: 130px;
+}
+#pone2
+{
+	text-align: center;
+}
+
+/*imp*/
+#imp
+{
+	padding: 60px;
+	margin-bottom: 40px;
+}
+#hthree2
+{
+	color: #99BFAA;
+}
+ul
+{
+	padding: 20px;
+}
+li
+{
+	line-height: 2;
+	font-weight: bold;
+	color: #000;
+}
+#hthree3
+{
+	color: #99BFAA;
+	text-align: center;
+	padding: 30px;
+}
+#ps
+{
+	text-align: center;
+	color: #99BFAA;
+	padding-bottom: 20px;
+}
+.fa
+{
+	padding-right:  10px;
+}
+
+.center
+{
+
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 300px;
+  margin-bottom: 30px;
+  margin-top: 60px;
+}
+
+
