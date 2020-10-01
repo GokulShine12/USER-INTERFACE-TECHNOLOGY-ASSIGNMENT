@@ -1,0 +1,109 @@
+body
+{
+	background-image: url('bl5.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;  
+	background-size: cover;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.container-fluid
+{ 
+	padding: 2% 15%;
+}
+
+#title
+{
+	color: #000;
+	padding-bottom: 30px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+#h1
+{
+	font-size: 1.5em;	
+	
+}
+
+/* navigation bar */
+
+header
+{
+	padding:  0 0 3rem;
+	/*background-color: #CBCE91FF;*/
+}
+
+.navbar-brand
+{
+	font-weight: bold;
+	font-size: 2.5rem;
+}
+.nav-item
+{
+	padding: 0 18px;
+	color: #000;
+}
+#nav-link
+{
+	font-size: 1.2rem;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000;
+}
+
+/* donor */
+
+#hone
+{
+	font-size: 2em;
+	text-align: center;
+	color: #c70039;
+}
+#form1
+{
+	margin: 30px;
+	padding: 50px;
+	background: rgba(0,0,0,.3);
+	width: auto;
+	height: auto;
+	border-radius: 10px;
+	box-sizing: border-box;
+	/*transform: translate(50%,-50%);*/
+	border: 20px solid #c70039;
+	box-shadow: inset 0px 5px 5px 5px ;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+input [type=text],[type=text],[type=date]
+{
+	border: none;
+	outline: none;
+	margin: 0 5%;
+	padding: 0;
+	width: 90%;
+	overflow: hidden;
+	color: #fff;
+	font-size: 20px;
+	letter-spacing: 2px;
+	background: transparent;
+	border-bottom: 2px solid #c70039;
+
+}
+
+#button
+{
+	width: 30%;
+	margin: 20px 0px;
+	border: 2px solid;
+	border-radius: 5px;
+	height: 40px;
+	background-color: #c70039;
+	text-align: center;
+}
+
+button:hover
+{
+	background: rgba(0,0,0,.6);
+}
+
+
